@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "138007283235",
+    "firebase_url": "https://pitputim-f9376.firebaseio.com",
+    "project_id": "pitputim-f9376",
+    "storage_bucket": "pitputim-f9376.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:138007283235:android:bf0ade884389f1f2",
+        "android_client_info": {
+          "package_name": "com.pitputim"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "138007283235-9pnkvgp0gqoujnncgpcgcpmvi8bi217j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pitputim",
+            "certificate_hash": "6ed831ed25613dc5cfd58d53da589c812c936670"
+          }
+        },
+        {
+          "client_id": "138007283235-h6h94s8t60f12hc0eeqf62v4apejfd5u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzFESxPuKXLSInbJTsreKf4TThh5yU4Ig"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "138007283235-h6h94s8t60f12hc0eeqf62v4apejfd5u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
